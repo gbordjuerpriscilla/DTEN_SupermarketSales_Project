@@ -26,3 +26,6 @@ Python, Pandas, Matplotlib, Seaborn
 - `eda_analysis.ipynb`, the full analysis notebook
 - `Supermarket_Sales_EDA_Report.pdf`, the written report with charts
 - `data/`, the dataset used
+
+## Task 3: Interactive Insights Dashboard
+Power BI dashboard built on the same supermarket sales data. See the [TASK3_Dashboard](TASK3_Dashboard/) folder.
