@@ -28,4 +28,5 @@ Python, Pandas, Matplotlib, Seaborn
 - `data/`, the dataset used
 
 ## Task 3: Interactive Insights Dashboard
-Power BI dashboard built on the same supermarket sales data. See the [TASK3_Dashboard](TASK3_Dashboard/) folder.
+Power BI dashboard built on the same supermarket sales data. See the 🔗 [View the live Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzU4YjhjZTItMzcwMS00ODk1LTgwM2QtYzU1ODk1Y2ExMDUxIiwidCI6IjEwNGQ4MDQ4LWZkMGMtNDNkNS1hNjMwLWZjNjI5ZTVkYWI1OSJ9) 
+
